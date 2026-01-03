@@ -1,7 +1,13 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: burlywood;
+    background-color: blanchedalmond;
 }
 h1{
     color: blueviolet;
+}
+.menu-item{
+    display: list-item;
+    background: grey;
+    padding: 20px;
+    margin-bottom: 15px;
 }
